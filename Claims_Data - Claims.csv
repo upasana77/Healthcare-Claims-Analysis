@@ -1,0 +1,16 @@
+claim_id,member_id,claim_date,provider_type,diagnosis_group,procedure_category,place_of_service,paid_amount,copay_amount,state,age_group,gender
+C001,M101,2024-01-05,Hospital,Diabetes,Lab Test,Inpatient,1200,30,NY,35-49,F
+C002,M102,2024-01-10,Clinic,Hypertension,Consultation,Outpatient,250,20,NJ,50-64,M
+C003,M103,2024-01-12,Pharmacy,General,Medication,Outpatient,45,10,NY,18-34,F
+C004,M104,2024-01-15,Hospital,Cancer,Surgery,Inpatient,8200,100,PA,65+,F
+C005,M105,2024-01-18,ER,General,Consultation,ER,1500,50,NY,35-49,M
+C006,M106,2024-01-22,Lab,Diabetes,Lab Test,Outpatient,300,15,NJ,18-34,F
+C007,M107,2024-01-30,Hospital,Hypertension,Consultation,Inpatient,1800,25,NY,50-64,M
+C008,M108,2024-02-02,Clinic,General,Consultation,Outpatient,200,20,PA,35-49,F
+C009,M109,2024-02-05,Pharmacy,Hypertension,Medication,Outpatient,75,5,NJ,35-49,M
+C010,M110,2024-02-07,ER,Cancer,Consultation,ER,2400,60,NY,65+,F
+,,,,,,,,,,,
+,,,,,,Total Healthcare Cost,15970,,,,
+,,,,,,,,,,,
+,,,,,,TotalCopayAmount,335,,,,
+,,,,,,AverageCostPerClaim,1597,,,,
